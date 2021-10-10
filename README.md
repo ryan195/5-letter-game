@@ -1,0 +1,2 @@
+# 5-letter-game
+Rules: Game is turn-based Two players first select their 5 letter word. Word should not contain repeated letters The two players then take turns to guess the other player's word by typing in words. These words can contain repeated letters like "aaaaa". The system will then display the amount of letters the player has guessed correctly. Game continues until someone guesses all 5 letters in the correct orientation.
